@@ -16,7 +16,7 @@ load_dotenv()
 def get_few_shots_db_chain():
     llm = ChatGroq(
         model="meta-llama/llama-4-maverick-17b-128e-instruct",
-        temperature=0.7
+        temperature=0.5
     )
     db_user="root"
     db_password="root"
