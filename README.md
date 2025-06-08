@@ -72,7 +72,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-For questions, support, or demo requests, open an issue or contact [adityaryan29](https://github.com/adityaryan29).
+For questions, support, open an issue or contact [adityaryan29](https://github.com/adityaryan29).
 
 ---
 
